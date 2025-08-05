@@ -1,1 +1,1 @@
-# github.Emote
+# github.Sigma.Emote
